@@ -1,0 +1,27 @@
+.Pokedex-title{
+    color:gray;
+    width:100%;
+}
+
+.Pokedex{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: auto;
+}
+
+.Pokedex-card{
+    background: lightgray;
+    width: 10rem;
+    border-radius: 10%;
+    margin: 1.5rem;
+}
+
+.card-title{
+    color: blue;
+}
+
+.win{
+    color: red;
+}
